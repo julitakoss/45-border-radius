@@ -1,0 +1,21 @@
+.vid{
+    height: 300px;
+    width: 300px;
+}
+.kolo{
+    background-color: lightgreen;
+    border-radius: 50%;
+
+}
+.kwadrat{
+    background-color: lime;
+    border-bottom-right-radius: 20%;
+}
+.text{
+    position: absolute; left: 120px;
+    text-align:center;
+    vertical-align:middle;
+    margin-top: 130px;
+    font-weight: bolder;
+}
+
